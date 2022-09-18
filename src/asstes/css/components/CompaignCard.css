@@ -1,0 +1,30 @@
+.compaign-card{
+    display: flex;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 15px;
+    height: 160px;
+    align-items: center;
+    overflow: inherit;
+}
+.card-img{
+    align-self: flex-end;
+}
+.card-icon{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: rgb(240,240,245);
+    border-radius: 50%;
+    cursor: pointer;
+}
+.card-body>h4{
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    text-align: left;
+}
+.card-body>p{
+    font-size: 14px;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/36/Navigation/Account_Filled</title>
+    <g id="Front-End-Case-Study" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu" transform="translate(-196.000000, -37.000000)">
+            <g id="Icon/36/Navigation/Account_Filled" transform="translate(188.000000, 28.000000)">
+                <rect id="Bound" x="0" y="0" width="36" height="36"></rect>
+                <path d="M25,13 L24,13 L24,12 C24,10.3431458 22.6568542,9 21,9 L11,9 C9.34314575,9 8,10.3431458 8,12 L8,24 C8,25.6568542 9.34314575,27 11,27 L25,27 C26.6568542,27 28,25.6568542 28,24 L28,16 C28,14.3431458 26.6568542,13 25,13 Z M11,11 L21,11 C21.5522847,11 22,11.4477153 22,12 L22,13 L11,13 C10.4477153,13 10,12.5522847 10,12 C10,11.4477153 10.4477153,11 11,11 Z M26,21 L25,21 C24.4477153,21 24,20.5522847 24,20 C24,19.4477153 24.4477153,19 25,19 L26,19 L26,21 Z" id="Icon" fill="#17171A"></path>
+            </g>
+        </g>
+    </g>
+</svg>

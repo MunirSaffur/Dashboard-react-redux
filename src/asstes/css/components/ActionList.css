@@ -1,0 +1,49 @@
+.action-list {
+    background-color: #fff;
+    border-radius: 12px;
+}
+
+.list-icon {
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+td>p,
+td>div>div>p {
+    color: rgba(23, 23, 26, 1);
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.4px;
+}
+
+td>span,
+td>div>div>span {
+    color: rgba(144, 144, 153, 1);
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+}
+
+.pagination {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.page-link {
+    border-radius: 12px !important;
+    margin: 10px;
+    border: 0;
+    opacity: 1;
+    background-color: rgba(240, 240, 245, 1);
+    color: rgba(144, 144, 153, 1);
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    text-align: center;
+}
+.page-link{}

@@ -1,0 +1,47 @@
+.dashboard-page {
+    background-color: #F5F5FA;
+}
+
+.owl-nav {
+    position: absolute;
+    top: -50px;
+    right: 10px;
+}
+.owl-stage{
+    padding-top: 2rem;
+}
+
+.compaigns-slider>h2,
+.action-list-section>.section-heading>h2 {
+    opacity: 1;
+    color: rgba(23, 23, 26, 1);
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    text-align: left;
+}
+
+.section-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    color: var(--main-color) !important;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.2px;
+
+}
+
+.owl-dots {
+    margin-top: 10px;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background-color: var(--main-color) !important;
+}

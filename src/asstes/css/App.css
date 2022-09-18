@@ -1,0 +1,11 @@
+:root{
+  --main-color: #155ED4
+}
+
+html, body {
+  /* height: 100vh; */
+  background-color: #F5F5FA;
+}
+.owl-carousel .owl-nav.disabled, .owl-carousel .owl-dots.disabled{
+  display: block !important;
+}

@@ -1,0 +1,125 @@
+.login-sideBar {
+    padding: 3.5rem 2rem;
+    background-color: #17171A;
+    color: #fff;
+    height: 100vh;
+    width: 100%;
+    border-radius: 12px;
+    background-image: url(../images/01_Qr.png);
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.login-sideBar>h2 {
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin-bottom: 3rem;
+}
+
+.login-sideBar>ul {
+    list-style: none;
+}
+
+.login-sideBar>ul>li {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.login-sideBar>ul>li>img {
+    margin-right: 2.5rem;
+}
+.login-side{
+    background-image: url(../images/Bg@2x.png);
+    background-position-y: bottom;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-x: 0;
+}
+.register {
+    border-color: #DCDCE6;
+    color: rgba(23, 23, 26, 1);
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    font-style: normal;
+    letter-spacing: 0.6px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.login-form {
+    width: 50%;
+    margin: 20vh auto;
+}
+
+.login-form>h1 {
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.56px;
+}
+
+.login-form>p {
+    color: rgba(96, 96, 102, 1);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.login-form-input {
+    background-color: #F5F5FA !important;
+    color: rgba(144, 144, 153, 1);
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.forget-password {
+    text-decoration: none;
+    color: rgba(21, 94, 212, 1);
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.2px;
+}
+
+.login {
+    background-color: #155ED4 !important;
+    color: rgba(255, 255, 255, 1) !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    font-style: normal;
+    letter-spacing: 0.6px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.loading-container{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    backdrop-filter: blur(5px);
+}
+.loading-animation{
+    width: 300px;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 600px){
+    .login-form{
+        width: 80%;
+        margin: 10vh auto;
+    }
+}

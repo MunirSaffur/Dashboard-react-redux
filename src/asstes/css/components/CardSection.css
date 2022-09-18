@@ -1,0 +1,30 @@
+.card-section {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 12px;
+    margin-bottom: 4rem;
+    background-image: url(../../images/Social_Account@2x.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card-section>h4 {
+    color: rgba(23, 23, 26, 1);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+}
+
+.card-section>p {
+    margin: 1rem 0;
+    color: rgba(96, 96, 102, 1);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 600px) {
+    .card-section{
+        background-image: none;
+    }
+}
